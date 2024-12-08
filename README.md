@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- I’m currently working on me 🥴
+- I’m currently learning C++
+- Telegramm: @stdegorka
+- I love you ❤
+
+
+  
 <!--
 **NE4EL/NE4EL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
