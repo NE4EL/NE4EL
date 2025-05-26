@@ -1,9 +1,4 @@
-## Hi there 👋
-
-- I’m currently working on me 🥴
-- I’m currently learning C++
-- Telegramm: @stdegorka
-- I love you ❤
+## HHnoHH
 
 
   
