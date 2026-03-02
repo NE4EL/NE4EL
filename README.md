@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;C%2B%2B+%7C+Python+Engineer;Building+Bots+%26+Automation;Future+Senior+Software+Engineer" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+%2B+Backend+%3D+Fullstack+chaos;Coffee+%E2%86%92+Code+%E2%86%92+Bugs+%E2%86%92+Coffee;Student+by+day%2C+debugger+by+night;rm+-rf+node_modules+%26%26+npm+install)](https://git.io/typing-svg)
-
 </div>
 
 ---
