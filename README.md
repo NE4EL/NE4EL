@@ -71,16 +71,6 @@ goal: Become high-level software engineer
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/NE4EL/NE4EL/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
 ## 📌 Current Projects
 
 - 🤖 Telegram automation bots
