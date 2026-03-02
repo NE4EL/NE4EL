@@ -1,16 +1,8 @@
-
 <div align="center">
 
-```
-███████╗ ██████╗  ██████╗ ██████╗
-██╔════╝██╔════╝ ██╔═══██╗██╔══██╗
-█████╗  ██║  ███╗██║   ██║██████╔╝
-██╔══╝  ██║   ██║██║   ██║██╔══██╗
-███████╗╚██████╔╝╚██████╔╝██║  ██║
-╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
-```
+# 👋 Hi, I'm Egor
 
-### `~/home/egor` — **Fullstack Student** · Building things that (sometimes) work
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;C%2B%2B+%7C+Python+Engineer;Building+Bots+%26+Automation;Future+Senior+Software+Engineer" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+%2B+Backend+%3D+Fullstack+chaos;Coffee+%E2%86%92+Code+%E2%86%92+Bugs+%E2%86%92+Coffee;Student+by+day%2C+debugger+by+night;rm+-rf+node_modules+%26%26+npm+install)](https://git.io/typing-svg)
 
@@ -18,97 +10,105 @@
 
 ---
 
-<img align="right" width="38%" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3f3b634e41b4ca/programming.gif"/>
-
-### `whoami`
+## 🚀 About Me
 
 ```yaml
-name: Egor Evtushenko
-role: Student & Developer
-focus:
-  - Frontend interfaces that don't look like Bootstrap
-  - Backend APIs that don't fall apart under load
-currently_learning:
-  - "Something new every week (for better or worse)"
-motto: "It works on my machine ¯\_(ツ)_/¯"
+name: Egor
+role: Backend Developer
+primary_stack:
+  - Python
+  - C++
+  - FastAPI
+  - PostgreSQL
+current_focus:
+  - System Design
+  - Algorithms
+  - Production-ready Backend
+  - Automation Tools
+goal: Become high-level software engineer
 ```
 
-<br clear="right"/>
+💻 I build backend systems, Telegram bots and automation tools.  
+🧠 Improving algorithms & architecture daily.  
+⚡ Love clean code, performance and scalability.
 
 ---
 
-### `ls -la ./tech-stack`
-
-**🖥️ Frontend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-
-**⚙️ Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-
-**🗄️ Databases & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-
----
-
-### `cat ./development-cycle.txt`
+## 🛠 Tech Stack
 
 <div align="center">
 
-| Step | Status |
-|------|--------|
-| 💡 Brilliant idea | `[✓] committed` |
-| ☕ Third coffee | `[✓] consumed` |
-| 🔥 Write the code | `[✓] done` |
-| 😐 It doesn't work | `[✓] expected` |
-| 🕵️ Debug for 3 hours | `[✓] ongoing` |
-| 🎉 It works! | `[?] undefined` |
-| 😨 No idea why it works | `[✓] shipped` |
+### Languages
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
+
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/NodeJS-0d1117?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb)
+
+### Tools
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux)
 
 </div>
 
 ---
 
-### `git log --stat`
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorEvtushenko&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorEvtushenko&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=EgorEvtushenko&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-### `ping egor`
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
-[![VK](https://img.shields.io/badge/VK-4a76a8?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/)
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
 
-*Response time: usually less than 24h · sometimes more · depends on deadlines*
+</div>
+
+---
+
+## 📌 Current Projects
+
+- 🤖 Telegram automation bots
+- 🏗 Backend APIs (FastAPI)
+- 🧮 Algorithms & data structures practice
+- ⚙️ C++ desktop utilities
+
+---
+
+## 📈 Development Philosophy
+
+> Build scalable.  
+> Write clean.  
+> Think long-term.  
+> Improve daily.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram)](https://t.me/YOUR_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 
 </div>
 
@@ -116,12 +116,6 @@ motto: "It works on my machine ¯\_(ツ)_/¯"
 
 <div align="center">
 
-```bash
-$ echo "Thanks for visiting! Star something if you like it :)"
-Thanks for visiting! Star something if you like it :)
-$ _
-```
-
-![](https://komarev.com/ghpvc/?username=EgorEvtushenko&color=58a6ff&style=flat-square&label=profile+views)
+⭐ Thanks for visiting my profile!
 
 </div>
