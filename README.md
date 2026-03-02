@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Egor
+# 👋 Hi, I'm Egor Evtushenko
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;C%2B%2B+%7C+Python+Engineer;Building+Bots+%26+Automation;Future+Senior+Software+Engineer" />
 
@@ -15,7 +15,7 @@ name: Egor
 role: Backend Developer
 primary_stack:
   - Python
-  - C++
+  - React
   - FastAPI
   - PostgreSQL
 current_focus:
@@ -38,7 +38,6 @@ goal: Become high-level software engineer
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
 
 ### Backend
@@ -48,7 +47,6 @@ goal: Become high-level software engineer
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb)
 
 ### Tools
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker)
@@ -77,7 +75,7 @@ goal: Become high-level software engineer
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/NE4EL/NE4EL/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -105,8 +103,8 @@ goal: Become high-level software engineer
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram)](https://t.me/YOUR_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram)](https://t.me/evtushenkoem)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)](https://github.com/NE4EL)
 
 </div>
 
