@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```yaml
 name: Egor
@@ -26,13 +26,13 @@ current_focus:
 goal: Become high-level software engineer
 ```
 
-💻 I build backend systems, Telegram bots and automation tools.  
-🧠 Improving algorithms & architecture daily.  
-⚡ Love clean code, performance and scalability.
+I build backend systems, Telegram bots and automation tools.  
+Improving algorithms & architecture daily.  
+Love clean code, performance and scalability.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -57,16 +57,16 @@ goal: Become high-level software engineer
 
 ---
 
-## 📌 Current Projects
+## Current Projects
 
-- 🤖 Telegram automation bots
-- 🏗 Backend APIs (FastAPI)
-- 🧮 Algorithms & data structures practice
-- ⚙️ C++ desktop utilities
+- Telegram automation bots
+- Backend APIs (FastAPI)
+- Algorithms & data structures practice
+- C++ desktop utilities
 
 ---
 
-## 📈 Development Philosophy
+## Development Philosophy
 
 > Build scalable.  
 > Write clean.  
