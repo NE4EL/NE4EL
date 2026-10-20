@@ -46,7 +46,7 @@ Love clean code, performance and scalability.
 **Databases**<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
-**DevOps & Tools**<br>
+**Tools**<br>
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=009639)
@@ -56,13 +56,27 @@ Love clean code, performance and scalability.
 </div>
 
 ---
+
+## Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NE4EL/NE4EL/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NE4EL/NE4EL/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/NE4EL/NE4EL/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
  
 ## Current Projects
  
 - Telegram automation bots
-- Backend APIs (FastAPI)
+- Backend APIs (FastAPI, Django)
 - Algorithms & data structures practice
-- C++ desktop utilities
+- Desktop utilities
 
 ---
  
