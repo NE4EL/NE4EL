@@ -15,11 +15,11 @@ primary_stack:
   - Python
   - React
   - FastAPI
+  - Django
   - PostgreSQL
 current_focus:
   - System Design
   - Algorithms
-  - Production-ready Backend
   - Automation Tools
 goal: Become high-level software engineer
 ```
@@ -35,23 +35,24 @@ Love clean code, performance and scalability.
  
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
- 
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/NodeJS-0d1117?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express)
- 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql)
- 
-### Tools
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux)
- 
+**Languages**<br>
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+
+**Backend**<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=44B78B)
+
+**Databases**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+**DevOps & Tools**<br>
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=009639)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+
 </div>
 
 ---
