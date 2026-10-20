@@ -4,12 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;FastAPI+%7C+Django+%7C+PostgreSQL;Docker+%7C+Linux+%7C+CI%2FCD;Java+%26+Algorithms;Building+APIs%2C+Bots+%26+Automation" />
 
-<br>
-<sub>Clean code · Scalable architecture · Production-ready backend</sub>
-
 </div>
-
----
  
 ## About Me
  
