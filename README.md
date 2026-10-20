@@ -4,6 +4,7 @@
  
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;C%2B%2B+%7C+Python+Engineer;Building+Bots+%26+Automation;Future+Senior+Software+Engineer" />
 </div>
+
 ---
  
 ## About Me
@@ -34,6 +35,7 @@ Love clean code, performance and scalability.
  
  
 <div align="center">
+
 ### Languages
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
@@ -52,6 +54,7 @@ Love clean code, performance and scalability.
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux)
  
 </div>
+
 ---
  
 ## Current Projects
@@ -60,6 +63,7 @@ Love clean code, performance and scalability.
 - Backend APIs (FastAPI)
 - Algorithms & data structures practice
 - C++ desktop utilities
+
 ---
  
 ## Development Philosophy
@@ -74,13 +78,16 @@ Love clean code, performance and scalability.
 ## 🌐 Connect With Me
  
 <div align="center">
+
 [![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram)](https://t.me/evtushenkoem)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)](https://github.com/NE4EL)
  
 </div>
+
 ---
  
 <div align="center">
+
 ⭐ Thanks for visiting my profile!
  
 </div>
